@@ -7,7 +7,7 @@ https://idbbn.com/
 
 
 ### Tools
-Basic Frontend - HTML5, CSS3
+Basic Frontend - HTML5, CSS3 <br/>
 JavaScript <br/>
 PHP, Twig <br/>
 Analytics <br/> 
